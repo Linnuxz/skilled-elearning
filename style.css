@@ -6,12 +6,14 @@ body{
     margin: 0;
     display: flex;
     flex-direction: column;
-    margin-left: 4.2%;
-    margin-right: 4.2%;
     font-family: "Plus Jakarta Sans";
     background: linear-gradient(180deg, #ffffff 0%, #f2f2f2 100%);
     box-sizing: border-box;
     padding: 0;
+}
+.main{
+    margin-left: 4.2%;
+    margin-right: 4.2%;
 }
 .top-layer{
     margin-top: 22px;
